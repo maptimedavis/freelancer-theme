@@ -3,6 +3,8 @@ Freelancer Jekyll theme
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
+The templating language this theme uses is called [Liquid](https://shopify.github.io/liquid/)
+
 ## How to use
  - Place a image in `/img/portfolio/`
  - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
