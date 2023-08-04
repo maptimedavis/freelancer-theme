@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-08-04T16:14:59-07:00</updated>
+  <updated>2023-08-04T16:52:48-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,12 +20,32 @@
   
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
+      <title type="html">Workshop Schedule</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Workshop Schedule" />
       <published>2014-07-18T00:00:00-07:00</published>
       <updated>2014-07-18T00:00:00-07:00</updated>
-      <id>http://localhost:4000/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
+      <id>http://localhost:4000/workshop-schedule</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;This schedule is current as of 8/4/2023. Expect updates before the beginning of the quarter.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table id=&quot;schedule&quot; class=&quot;center&quot;&gt;
+	&lt;colgroup&gt;
+		&lt;col style=&quot;background-color:lightgray&quot; /&gt;
+		&lt;col style=&quot;background-color:#F4F4F4&quot; /&gt;
+		&lt;col style=&quot;background-color:lightgray&quot; /&gt;
+	&lt;/colgroup&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Date&lt;/th&gt;
+		&lt;th&gt;Topic&lt;/th&gt;
+		&lt;th&gt;Speaker&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;9/1/2023&lt;/td&gt;
+		&lt;td&gt;Test Workshop Title&lt;/td&gt;
+		&lt;td&gt;Ann Awesome-Speaker&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</content>
 
       
       
@@ -40,13 +60,11 @@
       </author>
 
       
-        <category term="Web Development" />
-      
 
       
 
       
-        <summary type="html"></summary>
+        <summary type="html">This schedule is current as of 8/4/2023. Expect updates before the beginning of the quarter.</summary>
       
 
       
@@ -237,6 +255,40 @@
 
       
         <summary type="html">html here?</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 1</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
+      <published>2013-07-18T00:00:00-07:00</published>
+      <updated>2013-07-18T00:00:00-07:00</updated>
+      <id>http://localhost:4000/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
       
 
       
