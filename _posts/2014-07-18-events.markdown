@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 1
-date: 1
-img: workshop_schedule.png
+date: 2015-07-18
+img: events.png
 alt: image-alt
 project-date: 
 client: 

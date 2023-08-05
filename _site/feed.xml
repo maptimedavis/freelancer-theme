@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-08-04T16:52:48-07:00</updated>
+  <updated>2023-08-04T17:17:09-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,11 +20,11 @@
   
   
     <entry>
-      <title type="html">Workshop Schedule</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Workshop Schedule" />
-      <published>2014-07-18T00:00:00-07:00</published>
-      <updated>2014-07-18T00:00:00-07:00</updated>
-      <id>http://localhost:4000/workshop-schedule</id>
+      <title type="html">Events</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Events" />
+      <published>2015-07-18T00:00:00-07:00</published>
+      <updated>2015-07-18T00:00:00-07:00</updated>
+      <id>http://localhost:4000/events</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;This schedule is current as of 8/4/2023. Expect updates before the beginning of the quarter.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
