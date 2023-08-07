@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-08-07T12:04:47-07:00</updated>
+  <updated>2023-08-07T12:21:39-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -248,7 +248,15 @@
       <published>2001-01-01T00:00:00-08:00</published>
       <updated>2001-01-01T00:00:00-08:00</updated>
       <id>http://localhost:4000/archive</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt; html here?&lt;/p&gt;</content>
+      <content type="html" xml:base="http://localhost:4000/">&lt;h2&gt;Finding Past Workshop Materials&lt;/h2&gt;
+
+&lt;p&gt;We do our best to make the materials from past workshops available. Whenever possible, we collect the written materials such as workshop notes, guides, or tutorials, and make them available. Since 2020, we have made a concerted effort to record workshops.&lt;/p&gt;
+
+&lt;p&gt;As you might expect, we don&apos;t have everything. If we are missing something and you know where we can find it, please let us know.&lt;/p&gt;
+
+&lt;h2&gt;Archive&lt;/h2&gt;
+
+&lt;p&gt;A list of where you can find materials from past workshops will be placed here soon.&lt;/p&gt;</content>
 
       
       
@@ -267,7 +275,7 @@
       
 
       
-        <summary type="html">html here?</summary>
+        <summary type="html">Finding Past Workshop Materials</summary>
       
 
       
