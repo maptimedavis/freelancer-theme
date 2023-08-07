@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-08-07T10:48:01-07:00</updated>
+  <updated>2023-08-07T12:04:47-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -152,12 +152,12 @@
     </entry>
   
     <entry>
-      <title type="html">History</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="History" />
+      <title type="html">Mission</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Mission" />
       <published>2003-01-01T00:00:00-08:00</published>
       <updated>2003-01-01T00:00:00-08:00</updated>
-      <id>http://localhost:4000/history</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
+      <id>http://localhost:4000/mission</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;#maptimeDavis is a learning community (formally knows as the UC Davis DataLab’s Spatial Sciences Research &amp;amp; Learning Cluster) focused on instructor-lead formal workshops teaching a specific skills. These workshops typically (but not always) require participants to bring a laptop computer with software installed pertaining to the topic of the workshop. If a particular software is needed for a workshop, we’ll let you know what you need before hand if you register.&lt;/p&gt;</content>
 
       
       
@@ -176,7 +176,7 @@
       
 
       
-        <summary type="html"></summary>
+        <summary type="html">#maptimeDavis is a learning community (formally knows as the UC Davis DataLab’s Spatial Sciences Research &amp;amp; Learning Cluster) focused on instructor-lead formal workshops teaching a specific skills. These workshops typically (but not always) require participants to bring a laptop computer with software installed pertaining to the topic of the workshop. If a particular software is needed for a workshop, we’ll let you know what you need before hand if you register.</summary>
       
 
       
