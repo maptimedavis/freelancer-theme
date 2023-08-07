@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-08-07T09:53:52-07:00</updated>
+  <updated>2023-08-07T10:18:07-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -72,11 +72,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
+      <title type="html">Participate</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Participate" />
       <published>2014-07-17T00:00:00-07:00</published>
       <updated>2014-07-17T00:00:00-07:00</updated>
-      <id>http://localhost:4000/project-2</id>
+      <id>http://localhost:4000/participate</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -106,45 +106,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
-      <published>2014-07-16T00:00:00-07:00</published>
-      <updated>2014-07-16T00:00:00-07:00</updated>
-      <id>http://localhost:4000/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Project 4</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 4" />
+      <title type="html">History</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="History" />
       <published>2014-07-15T00:00:00-07:00</published>
       <updated>2014-07-15T00:00:00-07:00</updated>
-      <id>http://localhost:4000/project-4</id>
+      <id>http://localhost:4000/history</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -174,11 +140,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 5</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 5" />
+      <title type="html">Archive</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Archive" />
       <published>2014-07-14T00:00:00-07:00</published>
       <updated>2014-07-14T00:00:00-07:00</updated>
-      <id>http://localhost:4000/project-5</id>
+      <id>http://localhost:4000/archive</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;p&gt; html here?&lt;/p&gt;</content>
 
       
@@ -208,6 +174,42 @@
     </entry>
   
     <entry>
+      <title type="html">Swag</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Swag" />
+      <published>2004-01-01T00:00:00-08:00</published>
+      <updated>2004-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/swag</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;h2&gt;T-SHIRTS &amp;amp; SWAG&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;BW_Logo_Shirt.png&quot; alt=&quot;Woman wearing a white shirt with a black map time Davis logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;T-shirts and other #maptimeDavis branded items are available at cost (no markup) from &lt;a href=&quot;https://www.redbubble.com/people/micheletobias/shop?artistUserName=micheletobias&amp;amp;asc=u&amp;amp;collections=865154&amp;amp;iaCode=all-departments&amp;amp;sortOrder=relevant&quot;&gt;Redbubble&lt;/a&gt;. Available logos include black, white, gray, and rainbow.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">T-SHIRTS &amp;amp; SWAG</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Governance</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Governance" />
       <published>2002-01-01T00:00:00-08:00</published>
@@ -215,8 +217,9 @@
       <id>http://localhost:4000/governance</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;h2&gt;#maptimeDavis Council&lt;/h2&gt;
 
-&lt;p&gt;In the summer of 2021, the Spatial Sciences Research &amp;amp; Learning Cluster recruited community members to help advise and produce our #maptimeDavis workshop series.  We assembled a team with a variety of skills and interests including students, staff, and faculty. This year&apos;s #maptimeDavis Council members are:
+&lt;p&gt;In the summer of 2021, the Spatial Sciences Research &amp;amp; Learning Cluster recruited community members to help advise and produce our #maptimeDavis workshop series.  We assembled a team with a variety of skills and interests including students, staff, and faculty. This year&apos;s #maptimeDavis Council members are:&lt;/p&gt;
 
+&lt;!--
 &lt;ul&gt;
 &lt;li&gt;Alex Mandel, geospatial engineer, Development Seed&lt;/li&gt;
 &lt;li&gt;Kyra Liu, undergraduate student, Environmental Science and Management&lt;/li&gt;
@@ -228,17 +231,20 @@
 &lt;li&gt;Veronica Herrera, graduate student, Geography Graduate Group&lt;/li&gt;
 &lt;/ul&gt;
 
-We thank the past council members for all of their work!
 
-Sadia Gul, graduate student, Energy Graduate Group (2021-2022)
-Mina Rezaei, graduate student, Geography Graduate Group (2021-2022)
-Karen Beardsley, staff/faculty, UC Davis Global Affairs (2021-2023)
-Emma Forester, graduate student, Geography Graduate Group (2022-2023)
-We are always looking for volunteers to join our efforts! If you are interested in joining #maptimeDavis Council, please email Michele Tobias - mmtobias@ucdavis.edu
 
- 
+&lt;p&gt;We thank the past council members for all of their work!&lt;/p&gt;
 
-&lt;/p&gt;</content>
+&lt;ul&gt;
+&lt;li&gt;Sadia Gul, graduate student, Energy Graduate Group (2021-2022)&lt;/li&gt;
+&lt;li&gt;Mina Rezaei, graduate student, Geography Graduate Group (2021-2022)&lt;/li&gt;
+&lt;li&gt;Karen Beardsley, staff/faculty, UC Davis Global Affairs (2021-2023)&lt;/li&gt;
+&lt;li&gt;Emma Forester, graduate student, Geography Graduate Group (2022-2023)&lt;/li&gt;
+
+
+&lt;p&gt;We are always looking for volunteers to join our efforts! If you are interested in joining #maptimeDavis Council, please email Michele Tobias - mmtobias@ucdavis.edu
+&lt;/p&gt; 
+--&gt;</content>
 
       
       
