@@ -13,7 +13,7 @@ description:
 
 <p>In the summer of 2021, the Spatial Sciences Research & Learning Cluster recruited community members to help advise and produce our #maptimeDavis workshop series.  We assembled a team with a variety of skills and interests including students, staff, and faculty. This year's #maptimeDavis Council members are:</p>
 
-<!--
+
 <ul>
 <li>Alex Mandel, geospatial engineer, Development Seed</li>
 <li>Kyra Liu, undergraduate student, Environmental Science and Management</li>
@@ -38,4 +38,4 @@ description:
 
 <p>We are always looking for volunteers to join our efforts! If you are interested in joining #maptimeDavis Council, please email Michele Tobias - mmtobias@ucdavis.edu
 </p> 
--->
+
