@@ -1,9 +1,9 @@
 ---
 layout: default
 modal-id: 1
-date: 2015-07-18
+date: 2006-01-01
 img: events.png
-alt: image-alt
+alt: events
 project-date: 
 client: 
 category: 

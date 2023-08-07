@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-08-07T10:18:07-07:00</updated>
+  <updated>2023-08-07T10:25:07-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -22,8 +22,8 @@
     <entry>
       <title type="html">Events</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Events" />
-      <published>2015-07-18T00:00:00-07:00</published>
-      <updated>2015-07-18T00:00:00-07:00</updated>
+      <published>2006-01-01T00:00:00-08:00</published>
+      <updated>2006-01-01T00:00:00-08:00</updated>
       <id>http://localhost:4000/events</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;This schedule is current as of 8/4/2023. Expect updates before the beginning of the quarter.&lt;/p&gt;
 
@@ -74,8 +74,8 @@
     <entry>
       <title type="html">Participate</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Participate" />
-      <published>2014-07-17T00:00:00-07:00</published>
-      <updated>2014-07-17T00:00:00-07:00</updated>
+      <published>2005-01-01T00:00:00-08:00</published>
+      <updated>2005-01-01T00:00:00-08:00</updated>
       <id>http://localhost:4000/participate</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
@@ -92,81 +92,11 @@
       </author>
 
       
-        <category term="Web Development" />
-      
 
       
 
       
         <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">History</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="History" />
-      <published>2014-07-15T00:00:00-07:00</published>
-      <updated>2014-07-15T00:00:00-07:00</updated>
-      <id>http://localhost:4000/history</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Archive</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Archive" />
-      <published>2014-07-14T00:00:00-07:00</published>
-      <updated>2014-07-14T00:00:00-07:00</updated>
-      <id>http://localhost:4000/archive</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt; html here?&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-        <category term="Web Development" />
-      
-
-      
-
-      
-        <summary type="html">html here?</summary>
       
 
       
@@ -181,7 +111,7 @@
       <id>http://localhost:4000/swag</id>
       <content type="html" xml:base="http://localhost:4000/">&lt;h2&gt;T-SHIRTS &amp;amp; SWAG&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;BW_Logo_Shirt.png&quot; alt=&quot;Woman wearing a white shirt with a black map time Davis logo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;img/portfolio/BW_Logo_Shirt.png&quot; alt=&quot;Woman wearing a white shirt with a black map time Davis logo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;T-shirts and other #maptimeDavis branded items are available at cost (no markup) from &lt;a href=&quot;https://www.redbubble.com/people/micheletobias/shop?artistUserName=micheletobias&amp;amp;asc=u&amp;amp;collections=865154&amp;amp;iaCode=all-departments&amp;amp;sortOrder=relevant&quot;&gt;Redbubble&lt;/a&gt;. Available logos include black, white, gray, and rainbow.&lt;/p&gt;</content>
 
@@ -203,6 +133,38 @@
 
       
         <summary type="html">T-SHIRTS &amp;amp; SWAG</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">History</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="History" />
+      <published>2003-01-01T00:00:00-08:00</published>
+      <updated>2003-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/history</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
       
 
       
@@ -264,6 +226,38 @@
 
       
         <summary type="html">#maptimeDavis Council</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Archive</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Archive" />
+      <published>2001-01-01T00:00:00-08:00</published>
+      <updated>2001-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/archive</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt; html here?&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">html here?</summary>
       
 
       
