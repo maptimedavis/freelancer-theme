@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2023-08-07T09:23:58-07:00</updated>
+  <updated>2023-08-07T09:53:52-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -174,60 +174,6 @@
     </entry>
   
     <entry>
-      <title type="html">Project 6</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 6" />
-      <published>2014-07-15T00:00:00-07:00</published>
-      <updated>2014-07-15T00:00:00-07:00</updated>
-      <id>http://localhost:4000/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/">&lt;h2&gt;Current Schedule&lt;/h2&gt;
-
-&lt;p&gt;This schedule is current as of 8/4/2023. Expect updates before the beginning of the quarter.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;table id=&quot;schedule&quot; class=&quot;center&quot;&gt;
-	&lt;colgroup&gt;
-		&lt;col style=&quot;background-color:lightgray&quot; /&gt;
-		&lt;col style=&quot;background-color:#F4F4F4&quot; /&gt;
-		&lt;col style=&quot;background-color:lightgray&quot; /&gt;
-	&lt;/colgroup&gt;
-	&lt;tr&gt;
-		&lt;th&gt;Date&lt;/th&gt;
-		&lt;th&gt;Topic&lt;/th&gt;
-		&lt;th&gt;Speaker&lt;/th&gt;
-	&lt;/tr&gt;
-	&lt;tr&gt;
-		&lt;td&gt;9/1/2023&lt;/td&gt;
-		&lt;td&gt;Test Workshop Title&lt;/td&gt;
-		&lt;td&gt;Ann Awesome-Speaker&lt;/td&gt;
-	&lt;/tr&gt;
-&lt;/table&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html">Current Schedule</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
       <title type="html">Project 5</title>
       <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 5" />
       <published>2014-07-14T00:00:00-07:00</published>
@@ -262,12 +208,37 @@
     </entry>
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
-      <published>2013-07-18T00:00:00-07:00</published>
-      <updated>2013-07-18T00:00:00-07:00</updated>
-      <id>http://localhost:4000/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/"></content>
+      <title type="html">Governance</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Governance" />
+      <published>2002-01-01T00:00:00-08:00</published>
+      <updated>2002-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/governance</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;h2&gt;#maptimeDavis Council&lt;/h2&gt;
+
+&lt;p&gt;In the summer of 2021, the Spatial Sciences Research &amp;amp; Learning Cluster recruited community members to help advise and produce our #maptimeDavis workshop series.  We assembled a team with a variety of skills and interests including students, staff, and faculty. This year&apos;s #maptimeDavis Council members are:
+
+&lt;ul&gt;
+&lt;li&gt;Alex Mandel, geospatial engineer, Development Seed&lt;/li&gt;
+&lt;li&gt;Kyra Liu, undergraduate student, Environmental Science and Management&lt;/li&gt;
+&lt;li&gt;Liam Bhajan, graduate student, Land Air Water Resources&lt;/li&gt;
+&lt;li&gt;Lupe Franco, graduate student, Geography Graduate Group&lt;/li&gt;
+&lt;li&gt;Matthew Conner, librarian, UC Davis Library&lt;/li&gt;
+&lt;li&gt;Michele Tobias, data scientist, UC Davis DataLab&lt;/li&gt;
+&lt;li&gt;Naomi Kalman, owner/consultant, Valley Spatial&lt;/li&gt;
+&lt;li&gt;Veronica Herrera, graduate student, Geography Graduate Group&lt;/li&gt;
+&lt;/ul&gt;
+
+We thank the past council members for all of their work!
+
+Sadia Gul, graduate student, Energy Graduate Group (2021-2022)
+Mina Rezaei, graduate student, Geography Graduate Group (2021-2022)
+Karen Beardsley, staff/faculty, UC Davis Global Affairs (2021-2023)
+Emma Forester, graduate student, Geography Graduate Group (2022-2023)
+We are always looking for volunteers to join our efforts! If you are interested in joining #maptimeDavis Council, please email Michele Tobias - mmtobias@ucdavis.edu
+
+ 
+
+&lt;/p&gt;</content>
 
       
       
@@ -282,13 +253,11 @@
       </author>
 
       
-        <category term="Web Development" />
-      
 
       
 
       
-        <summary type="html"></summary>
+        <summary type="html">#maptimeDavis Council</summary>
       
 
       

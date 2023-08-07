@@ -15,7 +15,7 @@
    id="svg8"
    inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
    sodipodi:docname="Tiles.svg"
-   inkscape:export-filename="C:\Users\mmtobias\Documents\GitHub\freelancer-theme\img\portfolio\events.png"
+   inkscape:export-filename="C:\Users\mmtobias\Documents\GitHub\freelancer-theme\img\portfolio\governance.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -31,7 +31,7 @@
      inkscape:cx="293.17028"
      inkscape:cy="335.96149"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g946"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -41,7 +41,7 @@
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -55,11 +55,13 @@
     </rdf:RDF>
   </metadata>
   <g
+     sodipodi:insensitive="true"
+     style="display:none"
      inkscape:label="events"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#9e3d3d;stroke-width:0.0881943;stroke-linecap:round;fill-opacity:1"
+       style="fill:#9e3d3d;fill-opacity:1;stroke-width:0.0881943;stroke-linecap:round"
        id="rect833"
        width="238.125"
        height="171.97916"
@@ -80,7 +82,7 @@
          x="68.086365"
          y="202.09" /></text>
     <circle
-       style="display:inline;font-variation-settings:'wght' 700;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.52778;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-variation-settings:'wght' 700;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.52778;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle923"
        cx="119.0625"
        cy="75.210266"
@@ -90,7 +92,7 @@
        inkscape:connector-curvature="0"
        id="path903"
        d="m 68.553649,118.02875 c 34.317181,6.80718 59.096441,3.70852 62.049181,-17.26191 C 128.22818,68.228155 97.118862,86.108927 82.189716,64.175531 73.694675,48.725035 91.982271,19.19835 138.97833,50.424612"
-       style="fill:none;stroke:#9e3d3d;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:21.1667, 5.29166999999999987;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:none;stroke:#9e3d3d;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:21.1667, 5.29167;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -104,6 +106,105 @@
        style="fill:none;stroke:#9e3d3d;stroke-width:7.05556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
+     id="g946"
+     inkscape:groupmode="layer"
+     inkscape:label="governance">
+    <rect
+       y="5.0862632e-06"
+       x="-7.1054274e-15"
+       height="171.97916"
+       width="238.125"
+       id="rect930"
+       style="fill:#18778d;stroke-width:0.0881943;stroke-linecap:round;fill-opacity:1" />
+    <text
+       id="text936"
+       y="164.60738"
+       x="25.466745"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.9861px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         y="164.60738"
+         x="25.466745"
+         id="tspan948"
+         sodipodi:role="line">governance</tspan></text>
+    <circle
+       r="62.961033"
+       cy="75.210266"
+       cx="119.0625"
+       id="circle938"
+       style="display:inline;font-variation-settings:'wght' 700;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.52778;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="rotate(-21.062531,117.31276,75.417747)"
+       id="g1012">
+      <path
+         style="fill:none;stroke:#18778d;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 119.0625,33.264126 V 117.15641"
+         id="path950"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path952"
+         d="M 161.00864,75.210266 H 77.11636"
+         style="fill:none;stroke:#18778d;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;letter-spacing:0px;word-spacing:0px;fill:#18778d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="62.183533"
+         y="79.057564"
+         id="text956"><tspan
+           sodipodi:role="line"
+           id="tspan954"
+           x="62.183533"
+           y="79.057564"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#18778d;fill-opacity:1;stroke-width:0.264583">W</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;letter-spacing:0px;word-spacing:0px;fill:#18778d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="115.09377"
+         y="27.348886"
+         id="text960"><tspan
+           sodipodi:role="line"
+           id="tspan958"
+           x="115.09377"
+           y="27.348886"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#18778d;fill-opacity:1;stroke-width:0.264583">N</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;letter-spacing:0px;word-spacing:0px;fill:#18778d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="165.42274"
+         y="79.057564"
+         id="text964"><tspan
+           sodipodi:role="line"
+           id="tspan962"
+           x="165.42274"
+           y="79.057564"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#18778d;fill-opacity:1;stroke-width:0.264583">E</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;letter-spacing:0px;word-spacing:0px;fill:#18778d;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="115.40382"
+         y="131.64633"
+         id="text968"><tspan
+           sodipodi:role="line"
+           id="tspan966"
+           x="115.40382"
+           y="131.64633"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#18778d;fill-opacity:1;stroke-width:0.264583">S</tspan></text>
+      <path
+         style="fill:none;stroke:#18778d;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 112.9061,43.378759 6.1564,-10.114634"
+         id="path970"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path972"
+         d="m 125.41255,43.378759 -6.1564,-10.114634"
+         style="fill:none;stroke:#18778d;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+  <g
+     sodipodi:insensitive="true"
      style="display:none"
      id="g901"
      inkscape:groupmode="layer"
